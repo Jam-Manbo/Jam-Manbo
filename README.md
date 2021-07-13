@@ -50,7 +50,7 @@ const Manbo = {
 ---
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/KCuuGnIXRgSWrr5r9q1Smg)
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/0licxwhsv5i6wbc74tk7f5yx8)
 
 ---
 ![Git Stats](https://github-readme-stats.vercel.app/api?username=Jam-Manbo&show_icons=true&theme=tokyonight)
