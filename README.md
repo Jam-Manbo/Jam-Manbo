@@ -14,7 +14,7 @@
 ```javascript
 const Manbo = {
     Species: "Pokémon",
-    Languages: [Javascript, Typescript, C, C++, HTML, CSS],
+    Languages: [Javascript, Typescript, C, C++, java(soon)],
     AboutMe: ["bot dev", "web dev", "study", "music", "game"],
     technologies: {
         DiscordBot: {
