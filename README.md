@@ -1,5 +1,5 @@
 ## Hey guys, I'm <a href="https://github.com/Jam-Manbo" target="_blank">Manbo</a>!
-![version :25.03.2021](https://img.shields.io/badge/version-13.07.2021-informational) &nbsp;
+![version :08.09.2021](https://img.shields.io/badge/version-08.09.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=Jam-Manbo&color=red)&nbsp;
 [![GitHub Manbo](https://img.shields.io/github/followers/Jam-Manbo?label=follow&style=social)](https://github.com/Jam-Manbo)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
