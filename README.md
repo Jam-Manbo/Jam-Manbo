@@ -32,7 +32,7 @@ const Manbo = {
 
 ---
 #### 📫 Reach Me
-![Snorlax#4888](https://img.shields.io/badge/-Snorlax%EF%BC%834888-7289da?logo=Discord&logoColor=white) 
+![Snorlax#1234](https://img.shields.io/badge/-Snorlax%EF%BC%831234-7289da?logo=Discord&logoColor=white) 
 
 ### Languages:
 
