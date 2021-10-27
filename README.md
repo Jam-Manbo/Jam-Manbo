@@ -6,10 +6,11 @@
 
 #### 📕 Informations About Me
 
-- I am interested in making **Discord Bot** with **Javascipt**!
+- I am interested in making [**Discord Bot**](https://discord.com/api/oauth2/authorize?client_id=846770591231246336&permissions=8&scope=bot%20applications.commands) with **Javascipt**!
+- Consider [inviting](https://discord.com/api/oauth2/authorize?client_id=846770591231246336&permissions=8&scope=bot%20applications.commands) it, its officially verified form Discord!
 - I usaully use **C/C++** to make a program!
 - I am **Fullstack Developer**!
-- Developing Snorlax Bot's dashboard using **HTML/CSS**!
+- Developing Snorlax Bot's [Dashboard](https://snorlax.me) using **HTML/CSS**!
 
 ```javascript
 const Manbo = {
